@@ -1,4 +1,4 @@
-package com.github.sanchezih.util.math;
+package com.github.sanchezih.ihs.util.math;
 
 /**
  * 
