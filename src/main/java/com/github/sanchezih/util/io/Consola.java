@@ -1,4 +1,4 @@
-package util;
+package com.github.sanchezih.util.io;
 
 import java.util.Scanner;
 
